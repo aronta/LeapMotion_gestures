@@ -1,5 +1,6 @@
 import speech_recognition,  keyboard
 import pyautogui
+from playsound import playsound
 from pynput.mouse import Button, Controller
 
 mouse = Controller()
@@ -38,9 +39,12 @@ def main():
 
                 elif (speech_to_txt == 'windows'):
                     keyboard.press_and_release("windows + tab")
+                else:
+                    playsound("sound/beep boop.mp3")
 
             except Exception as ex:
                 print("Sorry. Could not understand.")
+                playsound("sound/beep boop.mp3")
 
 if __name__ == "__main__":
     main()
