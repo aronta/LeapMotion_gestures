@@ -1,16 +1,7 @@
 from pynput.mouse import Button, Controller
 from pynput.keyboard import Key, Listener, KeyCode
-import pythoncom, pyHook
 
 mouse = Controller()
-
-def uMad(event):
-    return False
-
-hm = pyHook.HookManager()
-hm.KeyAll = uMad
-hm.HookKeyboard()
-pythoncom.PumpMessages()
 
 def on_press(key):
     print('{0} pressed'.format(
