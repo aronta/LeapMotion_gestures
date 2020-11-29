@@ -1,5 +1,6 @@
 import keyboard as kb
 import pyautogui
+from playsound import playsound
 from pynput import keyboard
 from pynput.mouse import Button, Controller
 
@@ -123,11 +124,13 @@ class LeapMotionListener(Leap.Listener):
                     if circle.pointable.direction.angle_to(circle.normal) <= Leap.PI / 2:
                         pyautogui.click(button="right")
                         MyUtils.time_convert(time.time() - (start_time if start_time > 0 else on_time), "Circle Right / Right Click")
+                        playsound("sound/mouse-click.mp3")
                         self.lastGestureTime = time.time()
                         time.sleep(1.5)
                     else:
                         pyautogui.click(button="left")
                         MyUtils.time_convert(time.time() - (start_time if start_time > 0 else on_time), "Circle Left / Left Click")
+                        playsound("sound/mouse-click.mp3")
                         self.lastGestureTime = time.time()
                         time.sleep(1.5)
 
@@ -136,6 +139,8 @@ class LeapMotionListener(Leap.Listener):
                 self.gesture_done = True
                 pyautogui.click(clicks=2)
                 MyUtils.time_convert(time.time() - (start_time if start_time > 0 else on_time), "KeyTap / Double Click")
+                playsound("sound/mouse-click.mp3")
+                playsound("sound/mouse-click.mp3")
                 self.lastGestureTime = time.time()
                 time.sleep(1.5)
 

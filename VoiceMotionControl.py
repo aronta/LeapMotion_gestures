@@ -93,7 +93,7 @@ def main():
                                          "Scroll Up")
                     playsound("sound/mouse-click.mp3")
 
-                elif 'dolje' in speech_to_txt or 'dole' in speech_to_txt:
+                elif 'olje' in speech_to_txt or 'dole' in speech_to_txt:
                     pyautogui.scroll(-800)
                     MyUtils.time_convert(time.time() - (start_time if start_time > 0 else on_time),
                                          "Scroll Down")
@@ -103,7 +103,6 @@ def main():
                     kb.press_and_release("windows + tab")
                     MyUtils.time_convert(time.time() - (start_time if start_time > 0 else on_time),
                                          "Tab")
-                    playsound("sound/mouse-click.mp3")
 
                 else:
                     print("Sorry. Could not understand.")
