@@ -1,0 +1,25 @@
+Left Click		0:0:1.41
+Left Click		0:0:7.56
+Left Click		0:0:11.93
+----------Test start!----------		0:0:0.00
+Left Click		0:0:6.73
+Left Click		0:0:6.73
+Left Click		0:0:11.73
+Left Click		0:0:11.73
+Left Click		0:0:17.80
+Left Click		0:0:17.80
+Left Click		0:0:24.88
+Left Click		0:0:24.88
+Left Click		0:0:31.71
+Left Click		0:0:31.72
+Right Click		0:0:36.83
+Left Click		0:0:38.98
+Left Click		0:0:42.11
+Left Click		0:0:45.78
+Left Click		0:0:51.18
+Right Click		0:0:57.21
+Left Click		0:0:59.83
+Left Click		0:1:1.65
+Right Click		0:1:8.33
+Left Click		0:1:10.83
+---------- Test end! ----------		0:1:11.37

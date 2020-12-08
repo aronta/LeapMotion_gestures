@@ -1,0 +1,36 @@
+Left Click		0:0:2.31
+----------Test start!----------		0:0:0.00
+Double Click		0:0:5.90
+Left Click		0:0:18.64
+Left Click		0:0:33.86
+Left Click		0:0:37.34
+Left Click		0:0:41.72
+Left Click		0:0:45.09
+Left Click		0:0:56.52
+Left Click		0:0:59.80
+Left Click		0:1:4.44
+Left Click		0:1:7.57
+Left Click		0:1:23.02
+Left Click		0:1:44.62
+Left Click		0:1:48.74
+Left Click		0:1:52.47
+Left Click		0:2:7.09
+Scroll Down		0:2:13.06
+Scroll Down		0:2:18.79
+Left Click		0:2:23.00
+Scroll Down		0:2:26.48
+Scroll Down		0:2:31.14
+Left Click		0:2:34.89
+Left Click		0:2:39.62
+Scroll Down		0:2:43.54
+Scroll Down		0:2:52.24
+Left Click		0:2:59.32
+Scroll Down		0:3:12.51
+Left Click		0:3:38.36
+Left Click		0:3:43.59
+Left Click		0:4:12.71
+Back		0:4:32.85
+Scroll Up		0:4:36.01
+Scroll Up		0:4:42.10
+Left Click		0:4:45.87
+---------- Test end! ----------		0:4:46.69

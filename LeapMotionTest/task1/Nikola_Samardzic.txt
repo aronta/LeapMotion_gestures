@@ -1,0 +1,52 @@
+----------Test start!----------		0:0:0.00
+Circle Left / Left Click		0:0:4.45
+Circle Left / Left Click		0:0:7.17
+Circle Left / Left Click		0:0:10.32
+Circle Left / Left Click		0:0:12.87
+Circle Right / Right Click		0:0:16.55
+Circle Right / Right Click		0:0:21.57
+Circle Left / Left Click		0:0:28.25
+Circle Left / Left Click		0:0:33.15
+Circle Left / Left Click		0:0:37.09
+SWIPE Right->Left / Go Forward		0:0:40.94
+SWIPE Right->Left / Go Forward		0:0:43.37
+SWIPE Right->Left / Go Forward		0:0:45.65
+Circle Left / Left Click		0:0:48.25
+Circle Left / Left Click		0:0:55.09
+SWIPE Right->Left / Go Forward		0:0:59.39
+Circle Left / Left Click		0:1:2.97
+Circle Left / Left Click		0:1:6.99
+SWIPE Right->Left / Go Forward		0:1:10.13
+SWIPE Right->Left / Go Forward		0:1:14.15
+SWIPE Right->Left / Go Forward		0:1:16.57
+SWIPE Right->Left / Go Forward		0:1:19.06
+Circle Left / Left Click		0:1:22.20
+Circle Left / Left Click		0:1:29.70
+Circle Left / Left Click		0:1:34.82
+Circle Left / Left Click		0:1:38.29
+SWIPE Right->Left / Go Forward		0:1:41.39
+Circle Left / Left Click		0:1:47.07
+KeyTap / Double Click		0:1:50.47
+Circle Right / Right Click		0:1:54.54
+Circle Left / Left Click		0:2:2.09
+Circle Left / Left Click		0:2:5.70
+Circle Left / Left Click		0:2:8.90
+Circle Left / Left Click		0:2:13.44
+Circle Left / Left Click		0:2:18.39
+Circle Left / Left Click		0:2:21.67
+Circle Left / Left Click		0:2:27.05
+Circle Left / Left Click		0:2:30.52
+Circle Left / Left Click		0:2:35.19
+Circle Right / Right Click		0:2:39.28
+Circle Left / Left Click		0:2:43.59
+KeyTap / Double Click		0:2:51.12
+Circle Right / Right Click		0:2:56.52
+Circle Left / Left Click		0:3:0.85
+Circle Right / Right Click		0:3:6.37
+Circle Left / Left Click		0:3:10.52
+Circle Left / Left Click		0:3:16.27
+Circle Left / Left Click		0:3:21.07
+Circle Left / Left Click		0:3:24.55
+Circle Left / Left Click		0:3:27.77
+Circle Left / Left Click		0:3:32.82
+---------- Test end! ----------		0:3:33.24
