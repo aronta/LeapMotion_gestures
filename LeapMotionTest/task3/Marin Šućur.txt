@@ -1,0 +1,43 @@
+----------Test start!----------		0:0:0.00
+Circle Left / Left Click		0:0:4.69
+KeyTap / Double Click		0:0:14.16
+KeyTap / Double Click		0:0:22.12
+Circle Left / Left Click		0:0:34.16
+Circle Left / Left Click		0:0:39.38
+Circle Left / Left Click		0:0:41.59
+Circle Left / Left Click		0:0:45.32
+Circle Left / Left Click		0:0:48.47
+Circle Left / Left Click		0:0:52.72
+Circle Left / Left Click		0:0:56.86
+Circle Left / Left Click		0:1:1.54
+Circle Left / Left Click		0:1:4.84
+Circle Left / Left Click		0:1:8.91
+Circle Left / Left Click		0:1:12.12
+Circle Left / Left Click		0:1:14.84
+Circle Left / Left Click		0:1:19.82
+Circle Left / Left Click		0:1:23.03
+KeyTap / Double Click		0:1:27.72
+Circle Left / Left Click		0:1:32.23
+Circle Left / Left Click		0:1:38.36
+Circle Left / Left Click		0:1:45.40
+Circle Left / Left Click		0:1:47.60
+Pinch / Scroll		0:1:49.70
+Pinch / Scroll		0:1:50.58
+Circle Left / Left Click		0:1:58.03
+Pinch / Scroll		0:2:4.85
+Pinch / Scroll		0:2:6.31
+Circle Left / Left Click		0:2:14.22
+Circle Left / Left Click		0:2:20.74
+Pinch / Scroll		0:2:24.49
+Circle Left / Left Click		0:2:29.99
+Pinch / Scroll		0:2:33.26
+Pinch / Scroll		0:2:36.16
+Circle Left / Left Click		0:2:43.90
+Circle Left / Left Click		0:2:46.92
+Circle Left / Left Click		0:2:50.05
+Pinch / Scroll		0:2:52.17
+Pinch / Scroll		0:2:52.21
+SWIPE Left->Right / Go Back		0:2:54.11
+Pinch / Scroll		0:2:55.76
+Circle Left / Left Click		0:3:2.79
+---------- Test end! ----------		0:3:3.49

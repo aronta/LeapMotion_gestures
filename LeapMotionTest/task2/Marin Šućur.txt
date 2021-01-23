@@ -1,0 +1,22 @@
+----------Test start!----------		0:0:0.00
+KeyTap / Double Click		0:0:4.56
+KeyTap / Double Click		0:0:13.68
+KeyTap / Double Click		0:0:20.73
+KeyTap / Double Click		0:0:31.53
+KeyTap / Double Click		0:0:52.26
+Circle Right / Right Click		0:0:57.52
+Circle Left / Left Click		0:1:1.84
+Circle Left / Left Click		0:1:7.29
+SWIPE Right->Left / Go Forward		0:1:11.52
+SWIPE Right->Left / Go Forward		0:1:13.58
+SWIPE Left->Right / Go Back		0:1:17.52
+SWIPE Left->Right / Go Back		0:1:19.60
+SWIPE Left->Right / Go Back		0:1:22.12
+SWIPE Left->Right / Go Back		0:1:26.15
+SWIPE Left->Right / Go Back		0:1:28.45
+Circle Right / Right Click		0:1:31.96
+Circle Left / Left Click		0:1:42.14
+SWIPE Left->Right / Go Back		0:1:47.02
+Circle Right / Right Click		0:1:51.79
+Circle Left / Left Click		0:1:55.72
+---------- Test end! ----------		0:1:56.41
